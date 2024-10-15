@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mahbobe Jafariesfad
+- 👀 I’m interested in bioinformatics and computational biology
+- 🌱 I’m currently learning R and Python
+- 💞️ I’m looking to collaborate on genomics project
+- 📫 Reach me at mahbobej3@gmail.com or via my LinkedIn profile: https://www.linkedin.com/in/mahbobe-jafariesfad-2431b21b2/
